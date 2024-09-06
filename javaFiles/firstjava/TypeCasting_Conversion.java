@@ -1,4 +1,4 @@
-package com.firstjava;
+package com.LectureCode.firstjava;
 
 import java.util.Scanner;
 

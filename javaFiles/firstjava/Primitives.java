@@ -1,4 +1,4 @@
-package com.firstjava;
+package com.LectureCode.firstjava;
 
 public class Primitives {
     public static void main(String[] args) {
